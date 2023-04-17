@@ -11,6 +11,7 @@ Roughtly "Folder nadrzędny" - "Main directory", "Folder kategorii" - "Category 
 # Installation
 
 * Put the contents of this repo in `%UserProfile%\yt-dlp`
+* Download ffmpeg, ffprobe and yt-dlp executables and put in the folder as well
 * Install registry entry
 * Install Tampermonkey and add the userscript
 * Install Python and add to `PATH`
